@@ -6,6 +6,6 @@ It's a basic web page game, original game taken from https://www.w3schools.com/g
 4) Run XAMMP, start Apache and MySql.
 5) Open your browser and type localhost in the url section. 
 Now you can play the game, play around with the code, make some changes and test them.
-If you want to check the database, type locahost/phpmyadmin.
+If you want to check the database, type localhost/phpmyadmin.
 
 <a href="https://ibb.co/fXgCLT"><img src="https://preview.ibb.co/k2kuZo/flap.png" alt="flap" border="0"></a>
